@@ -8,10 +8,10 @@ let BoxFive=9
 
 console.log(BoxOne+BoxTwo+BoxThree+BoxFour+BoxFive)
 
-let firstname="Judah"
-let secondname="Mwesigwa"
+let firstname=Judah
+let secondname=Mwesigwa
 
-console.log(`${firstname} ${secondname}`)
+let answer=prompt("Enter Your First Name")
+alert(`Greetings, ${answer}You are welcome`)
 
-let answer=prompt("How old are you")
-alert(`Wow! You are ${answer}!! That so incredible!!`)
+console.log(`${firstname} ${secondname} You are most welcome!!!!`)
